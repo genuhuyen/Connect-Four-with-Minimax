@@ -1,6 +1,5 @@
 /* Huyen Tran
 * Connect Four Game (using Minimax)
-* I have neither given nor received unauthorized aid on this program
 */
 import java.util.Scanner;
 import java.util.*;
